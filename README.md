@@ -1,5 +1,9 @@
 # Tride Contracts
 
+> Learn More: https://tride-app.github.io/project
+
+![Discord](https://img.shields.io/discord/1482790798016643103?style=for-the-badge&logo=discord&logoColor=white)
+
 Tride is an intercity carpooling platform that uses Soroban smart contracts on Stellar to enforce escrow, refund, and payout rules without platform custody. This repository is the contract workspace for that settlement layer.
 
 The contracts repo is responsible for the logic that must be deterministic and verifiable on-chain.
